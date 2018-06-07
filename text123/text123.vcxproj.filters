@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Class">
+      <UniqueIdentifier>{5c2f4200-6c5f-4740-8dcb-51d2dbfe49ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{67390c7f-aac5-489b-b734-bd73c94d1076}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Define.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero.cpp">
+      <Filter>Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.hpp">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Need.h">
+      <Filter>Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Tmap.h">
+      <Filter>Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Class</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿  text123.cpp
+c:\users\纪华裕\source\repos\text123\text123\text123.cpp(113): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\纪华裕\source\repos\text123\text123\text123.cpp(119): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\纪华裕\source\repos\text123\text123\text123.cpp(120): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 100 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  text123.vcxproj -> C:\Users\纪华裕\source\repos\text123\Release\text123.exe
